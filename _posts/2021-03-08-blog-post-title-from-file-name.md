@@ -1,10 +1,12 @@
 ## The life and times of a lonely coder
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Learn about the psychology of computer programmers with an 80s hook.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+Delve deeper into the dark lines blended between a programmers 
+subconcious and experience the human condition inputed by our very own source code!
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+The future they say is AI whos coding these substructures of artificial humans programmers? or scientists?
+jump into my discussion on this curious topic.
 
 ---
 
