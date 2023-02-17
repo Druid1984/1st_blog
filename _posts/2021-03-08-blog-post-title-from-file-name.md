@@ -5,7 +5,7 @@ Learn about the psychology of computer programmers with an 80s hook.
 Delve deeper into the dark lines blended between a programmers 
 subconcious and experience the human condition inputed by our very own source code!
 
-The future they say is AI whos coding these substructures of artificial intelignce programmers? or scientists?
+The future they say is AI who's coding these substructures of artificial intelignce programmers? or scientists?
 jump into my discussion on this curious topic and find out what really is making society want this to advance
 and why its being implimented without underdstanding the costs of our own creations.
 
