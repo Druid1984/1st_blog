@@ -25,7 +25,7 @@ So programmers have the coginitive skills to learn how an AI will behave by simp
 principles, emotions, regulation and problem solving here is self correction, now think about how an AI could solve a problem that would take us years to understand
 how to solve it then bare the feelings of ill will against a machine code because it got there first, well arent we being a little bit selfish and self centered there after all we created this form of artificial intelegince to do the things we cant, " calling the kettle black" arent we.
 
-And this is where we are at an ethical crossroads, how do we safley and reasonably justify the sole existence of this AI, its capabilities and its unesen vast knowledge base well we first have to deal with our ethics on human cognitive behaviour before we can adapt to trusting an artifiical machine that swears its human?
+And this is where we are at an ethical crossroads, how do we safley and reasonably justify the sole existence of this AI, its capabilities and its unseen vast knowledge base well we first have to deal with our ethics on human cognitive behaviour before we can adapt to trusting an artifiical machine that swears its human?
 this is the point we have got to where https://www.carnegiecouncil.org/initiatives-issues/artificial-intelligence-and-equality?gclid=Cj0KCQiA6LyfBhC3ARIsAG4gkF9NpzG7FIMr4YGlJDvbxyI4FhjbAkJApLM4YX498d8R8rHV_rT__7saAkiOEALw_wcB
 have stepped in and created the first Artificial Intelligence equality initiative where they have substructured the tools to understand and accept the limitations we set not AI?
 
